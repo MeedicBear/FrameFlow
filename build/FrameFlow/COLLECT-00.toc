@@ -1,0 +1,383 @@
+([('FrameFlow.exe',
+   'E:\\Saas Apps\\VideoExtractor\\build\\FrameFlow\\FrameFlow.exe',
+   'EXECUTABLE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp313-win_amd64.pyd',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\_cffi_backend.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_zoneinfo.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_zoneinfo.pyd',
+   'EXTENSION'),
+  ('backend\\__pycache__\\main.cpython-313.pyc',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\__pycache__\\main.cpython-313.pyc',
+   'DATA'),
+  ('backend\\__pycache__\\models.cpython-313.pyc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\__pycache__\\models.cpython-313.pyc',
+   'DATA'),
+  ('backend\\bin\\ffmpeg.exe',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\bin\\ffmpeg.exe',
+   'BINARY'),
+  ('backend\\bin\\ffprobe.exe',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\bin\\ffprobe.exe',
+   'BINARY'),
+  ('backend\\data\\tasks\\08596720\\frames\\frame_00001.webp',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\08596720\\frames\\frame_00001.webp',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\674853dd_frames.zip',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\674853dd_frames.zip',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\frames\\frame_00001.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\frames\\frame_00001.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\frames\\frame_00002.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\frames\\frame_00002.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\frames\\frame_00003.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\frames\\frame_00003.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\frames\\frame_00004.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\frames\\frame_00004.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\674853dd\\frames\\frame_00005.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\674853dd\\frames\\frame_00005.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\94ace320\\frames\\frame_00001.png',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\94ace320\\frames\\frame_00001.png',
+   'DATA'),
+  ('backend\\data\\tasks\\94ace320\\frames\\frame_00002.png',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\94ace320\\frames\\frame_00002.png',
+   'DATA'),
+  ('backend\\data\\tasks\\94ace320\\frames\\frame_00003.png',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\94ace320\\frames\\frame_00003.png',
+   'DATA'),
+  ('backend\\data\\tasks\\94ace320\\frames\\frame_00004.png',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\94ace320\\frames\\frame_00004.png',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\frames\\frame_00001.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\frames\\frame_00001.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\frames\\frame_00002.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\frames\\frame_00002.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\frames\\frame_00003.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\frames\\frame_00003.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\frames\\frame_00004.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\frames\\frame_00004.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\frames\\frame_00005.jpg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\frames\\frame_00005.jpg',
+   'DATA'),
+  ('backend\\data\\tasks\\task_test1\\task_test1_frames.zip',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\data\\tasks\\task_test1\\task_test1_frames.zip',
+   'DATA'),
+  ('backend\\data\\uploads\\e0f31196.mp4',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\data\\uploads\\e0f31196.mp4',
+   'DATA'),
+  ('backend\\data\\uploads\\f34187ab.mp4',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\data\\uploads\\f34187ab.mp4',
+   'DATA'),
+  ('backend\\main.py',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\main.py',
+   'DATA'),
+  ('backend\\models.py',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\models.py',
+   'DATA'),
+  ('backend\\services\\__pycache__\\ffmpeg_service.cpython-313.pyc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\backend\\services\\__pycache__\\ffmpeg_service.cpython-313.pyc',
+   'DATA'),
+  ('backend\\services\\ffmpeg_service.py',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\services\\ffmpeg_service.py',
+   'DATA'),
+  ('base_library.zip',
+   'E:\\Saas Apps\\VideoExtractor\\build\\FrameFlow\\base_library.zip',
+   'DATA'),
+  ('bin\\ffmpeg.exe',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\bin\\ffmpeg.exe',
+   'BINARY'),
+  ('bin\\ffprobe.exe',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\bin\\ffprobe.exe',
+   'BINARY'),
+  ('click-8.5.0.dist-info\\INSTALLER',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click-8.5.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('click-8.5.0.dist-info\\METADATA',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click-8.5.0.dist-info\\METADATA',
+   'DATA'),
+  ('click-8.5.0.dist-info\\RECORD',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click-8.5.0.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.5.0.dist-info\\WHEEL',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click-8.5.0.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.5.0.dist-info\\licenses\\LICENSE.txt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click-8.5.0.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('clr_loader\\ffi\\dlls\\amd64\\ClrLoader.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\dlls\\amd64\\ClrLoader.dll',
+   'BINARY'),
+  ('clr_loader\\ffi\\dlls\\x86\\ClrLoader.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\dlls\\x86\\ClrLoader.dll',
+   'BINARY'),
+  ('frontend\\dist\\assets\\index-B0lgP4b5.css',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\assets\\index-B0lgP4b5.css',
+   'DATA'),
+  ('frontend\\dist\\assets\\index-zQTv__SN.js',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\assets\\index-zQTv__SN.js',
+   'DATA'),
+  ('frontend\\dist\\favicon.svg',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\favicon.svg',
+   'DATA'),
+  ('frontend\\dist\\icons.svg',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\icons.svg',
+   'DATA'),
+  ('frontend\\dist\\index.html',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\index.html',
+   'DATA'),
+  ('frontend\\dist\\sample_test.mp4',
+   'E:\\Saas Apps\\VideoExtractor\\frontend\\dist\\sample_test.mp4',
+   'DATA'),
+  ('libcrypto-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('opentelemetry_api-1.45.1.dist-info\\INSTALLER',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('opentelemetry_api-1.45.1.dist-info\\METADATA',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\METADATA',
+   'DATA'),
+  ('opentelemetry_api-1.45.1.dist-info\\RECORD',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\RECORD',
+   'DATA'),
+  ('opentelemetry_api-1.45.1.dist-info\\WHEEL',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\WHEEL',
+   'DATA'),
+  ('opentelemetry_api-1.45.1.dist-info\\entry_points.txt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('opentelemetry_api-1.45.1.dist-info\\licenses\\LICENSE',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry_api-1.45.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\INSTALLER',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\METADATA',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\RECORD',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\REQUESTED',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\WHEEL',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pydantic-2.14.1.dist-info\\licenses\\LICENSE',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic-2.14.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic_core\\_pydantic_core.cp313-win_amd64.pyd',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic_core\\_pydantic_core.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('python313.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\python313.dll',
+   'BINARY'),
+  ('pythonnet\\runtime\\Python.Runtime.deps.json',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pythonnet\\runtime\\Python.Runtime.deps.json',
+   'DATA'),
+  ('pythonnet\\runtime\\Python.Runtime.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pythonnet\\runtime\\Python.Runtime.dll',
+   'BINARY'),
+  ('pythonnet\\runtime\\Python.Runtime.xml',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pythonnet\\runtime\\Python.Runtime.xml',
+   'DATA'),
+  ('select.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('unicodedata.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('webview\\js\\api.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\api.js',
+   'DATA'),
+  ('webview\\js\\customize.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\customize.js',
+   'DATA'),
+  ('webview\\js\\finish.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\finish.js',
+   'DATA'),
+  ('webview\\js\\lib\\dom_json.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\lib\\dom_json.js',
+   'DATA'),
+  ('webview\\js\\lib\\polyfill.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\lib\\polyfill.js',
+   'DATA'),
+  ('webview\\js\\state.js',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\js\\state.js',
+   'DATA'),
+  ('webview\\lib\\Microsoft.Web.WebView2.Core.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\Microsoft.Web.WebView2.Core.dll',
+   'BINARY'),
+  ('webview\\lib\\Microsoft.Web.WebView2.WinForms.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\Microsoft.Web.WebView2.WinForms.dll',
+   'BINARY'),
+  ('webview\\lib\\WebBrowserInterop.x64.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\WebBrowserInterop.x64.dll',
+   'BINARY'),
+  ('webview\\lib\\WebBrowserInterop.x86.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\WebBrowserInterop.x86.dll',
+   'BINARY'),
+  ('webview\\lib\\pywebview-android.jar',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\pywebview-android.jar',
+   'DATA'),
+  ('webview\\lib\\runtimes\\win-arm64\\native\\WebView2Loader.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\runtimes\\win-arm64\\native\\WebView2Loader.dll',
+   'BINARY'),
+  ('webview\\lib\\runtimes\\win-x64\\native\\WebView2Loader.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\runtimes\\win-x64\\native\\WebView2Loader.dll',
+   'BINARY'),
+  ('webview\\lib\\runtimes\\win-x86\\native\\WebView2Loader.dll',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\lib\\runtimes\\win-x86\\native\\WebView2Loader.dll',
+   'BINARY')],)

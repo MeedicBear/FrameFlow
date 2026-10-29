@@ -1,0 +1,3392 @@
+('E:\\Saas Apps\\VideoExtractor\\build\\FrameFlow\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\curses.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('aiofiles',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\__init__.py',
+   'PYMODULE'),
+  ('aiofiles.base',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\base.py',
+   'PYMODULE'),
+  ('aiofiles.tempfile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\tempfile\\__init__.py',
+   'PYMODULE'),
+  ('aiofiles.tempfile.temptypes',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\tempfile\\temptypes.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\__init__.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.binary',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\binary.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.text',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\text.py',
+   'PYMODULE'),
+  ('aiofiles.threadpool.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\aiofiles\\threadpool\\utils.py',
+   'PYMODULE'),
+  ('annotated_doc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\annotated_doc\\__init__.py',
+   'PYMODULE'),
+  ('annotated_doc.main',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\annotated_doc\\main.py',
+   'PYMODULE'),
+  ('annotated_types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\annotated_types\\__init__.py',
+   'PYMODULE'),
+  ('anyio',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._asyncio_selector_thread',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'PYMODULE'),
+  ('anyio._core._concurrency_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_concurrency_utils.py',
+   'PYMODULE'),
+  ('anyio._core._contextmanagers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._futures',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_futures.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._tempfile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio._lazyimport',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\_lazyimport.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio.functools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\functools.py',
+   'PYMODULE'),
+  ('anyio.itertools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\itertools.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.streams.buffered',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\streams\\buffered.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.to_interpreter',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\to_interpreter.py',
+   'PYMODULE'),
+  ('anyio.to_process',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\to_process.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bottle',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\bottle.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cffi',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('click',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click._compat',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click._utils',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\_utils.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.core',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click.globals',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.parser',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.termui',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click.types',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click.utils',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('clr',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr.py',
+   'PYMODULE'),
+  ('clr_loader',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.hostfxr',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.mono',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.netfx',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\ffi\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.hostfxr',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.mono',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.netfx',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\types.py',
+   'PYMODULE'),
+  ('clr_loader.util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.util.clr_error',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\clr_error.py',
+   'PYMODULE'),
+  ('clr_loader.util.coreclr_errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\coreclr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.find',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\find.py',
+   'PYMODULE'),
+  ('clr_loader.util.hostfxr_errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\hostfxr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.runtime_spec',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\clr_loader\\util\\runtime_spec.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fastapi',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\__init__.py',
+   'PYMODULE'),
+  ('fastapi._compat',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\_compat\\__init__.py',
+   'PYMODULE'),
+  ('fastapi._compat.shared',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\_compat\\shared.py',
+   'PYMODULE'),
+  ('fastapi._compat.v2',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\_compat\\v2.py',
+   'PYMODULE'),
+  ('fastapi.applications',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\applications.py',
+   'PYMODULE'),
+  ('fastapi.background',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\background.py',
+   'PYMODULE'),
+  ('fastapi.concurrency',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\concurrency.py',
+   'PYMODULE'),
+  ('fastapi.datastructures',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\datastructures.py',
+   'PYMODULE'),
+  ('fastapi.dependencies',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\dependencies\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.dependencies.models',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\dependencies\\models.py',
+   'PYMODULE'),
+  ('fastapi.dependencies.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\dependencies\\utils.py',
+   'PYMODULE'),
+  ('fastapi.encoders',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\encoders.py',
+   'PYMODULE'),
+  ('fastapi.exception_handlers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\exception_handlers.py',
+   'PYMODULE'),
+  ('fastapi.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\exceptions.py',
+   'PYMODULE'),
+  ('fastapi.logger',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\logger.py',
+   'PYMODULE'),
+  ('fastapi.middleware',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.middleware.asyncexitstack',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\middleware\\asyncexitstack.py',
+   'PYMODULE'),
+  ('fastapi.middleware.cors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\middleware\\cors.py',
+   'PYMODULE'),
+  ('fastapi.openapi',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\openapi\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.openapi.constants',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\openapi\\constants.py',
+   'PYMODULE'),
+  ('fastapi.openapi.docs',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\openapi\\docs.py',
+   'PYMODULE'),
+  ('fastapi.openapi.models',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\openapi\\models.py',
+   'PYMODULE'),
+  ('fastapi.openapi.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\openapi\\utils.py',
+   'PYMODULE'),
+  ('fastapi.param_functions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\param_functions.py',
+   'PYMODULE'),
+  ('fastapi.params',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\params.py',
+   'PYMODULE'),
+  ('fastapi.requests',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\requests.py',
+   'PYMODULE'),
+  ('fastapi.responses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\responses.py',
+   'PYMODULE'),
+  ('fastapi.routing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\routing.py',
+   'PYMODULE'),
+  ('fastapi.security',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.security.api_key',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\api_key.py',
+   'PYMODULE'),
+  ('fastapi.security.base',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\base.py',
+   'PYMODULE'),
+  ('fastapi.security.http',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\http.py',
+   'PYMODULE'),
+  ('fastapi.security.oauth2',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\oauth2.py',
+   'PYMODULE'),
+  ('fastapi.security.open_id_connect_url',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\open_id_connect_url.py',
+   'PYMODULE'),
+  ('fastapi.security.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\security\\utils.py',
+   'PYMODULE'),
+  ('fastapi.sse',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\sse.py',
+   'PYMODULE'),
+  ('fastapi.staticfiles',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\staticfiles.py',
+   'PYMODULE'),
+  ('fastapi.telemetry',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\telemetry\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._api',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\telemetry\\_api.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._asgi',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\telemetry\\_asgi.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._runtime',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\telemetry\\_runtime.py',
+   'PYMODULE'),
+  ('fastapi.types',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\types.py',
+   'PYMODULE'),
+  ('fastapi.utils',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\utils.py',
+   'PYMODULE'),
+  ('fastapi.websockets',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\fastapi\\websockets.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h11',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._events',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._state',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._util',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._version',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('logging.config',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\logging\\config.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('main', 'E:\\Saas Apps\\VideoExtractor\\backend\\main.py', 'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('models', 'E:\\Saas Apps\\VideoExtractor\\backend\\models.py', 'PYMODULE'),
+  ('multipart',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\multipart\\__init__.py',
+   'PYMODULE'),
+  ('multipart.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\multipart\\exceptions.py',
+   'PYMODULE'),
+  ('multipart.multipart',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\multipart\\multipart.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('opentelemetry', '-', 'PYMODULE'),
+  ('opentelemetry._logs',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\_logs\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry._logs._internal',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\_logs\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry._logs.severity',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\_logs\\severity\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.attributes',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\attributes\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.baggage',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\baggage\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.baggage.propagation',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\baggage\\propagation\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.context',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\context\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.context.context',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\context\\context.py',
+   'PYMODULE'),
+  ('opentelemetry.context.contextvars_context',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\context\\contextvars_context.py',
+   'PYMODULE'),
+  ('opentelemetry.environment_variables',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\environment_variables\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal.instrument',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\instrument.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal.observation',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\observation.py',
+   'PYMODULE'),
+  ('opentelemetry.propagate',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\propagate\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.propagators', '-', 'PYMODULE'),
+  ('opentelemetry.propagators.composite',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\propagators\\composite.py',
+   'PYMODULE'),
+  ('opentelemetry.propagators.textmap',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\propagators\\textmap.py',
+   'PYMODULE'),
+  ('opentelemetry.trace',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\trace\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.propagation',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\trace\\propagation\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.propagation.tracecontext',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\trace\\propagation\\tracecontext.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.span',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\trace\\span.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.status',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\trace\\status.py',
+   'PYMODULE'),
+  ('opentelemetry.util', '-', 'PYMODULE'),
+  ('opentelemetry.util._decorator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\_decorator.py',
+   'PYMODULE'),
+  ('opentelemetry.util._importlib_metadata',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\_importlib_metadata.py',
+   'PYMODULE'),
+  ('opentelemetry.util._once',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\_once.py',
+   'PYMODULE'),
+  ('opentelemetry.util._providers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\_providers.py',
+   'PYMODULE'),
+  ('opentelemetry.util.re',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\re.py',
+   'PYMODULE'),
+  ('opentelemetry.util.types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\opentelemetry\\util\\types.py',
+   'PYMODULE'),
+  ('packaging',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('proxy_tools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\proxy_tools\\__init__.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pydantic',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_metadata',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._dataclasses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators_v1',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'PYMODULE'),
+  ('pydantic._internal._discriminated_union',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'PYMODULE'),
+  ('pydantic._internal._docs_extraction',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
+   'PYMODULE'),
+  ('pydantic._internal._fields',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'PYMODULE'),
+  ('pydantic._internal._forward_ref',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'PYMODULE'),
+  ('pydantic._internal._generate_schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'PYMODULE'),
+  ('pydantic._internal._generics',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'PYMODULE'),
+  ('pydantic._internal._git',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_git.py',
+   'PYMODULE'),
+  ('pydantic._internal._import_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._known_annotated_metadata',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._mock_val_ser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'PYMODULE'),
+  ('pydantic._internal._model_construction',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'PYMODULE'),
+  ('pydantic._internal._namespace_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_namespace_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._repr',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_gather',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_gather.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_generation_shared',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'PYMODULE'),
+  ('pydantic._internal._serializers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_serializers.py',
+   'PYMODULE'),
+  ('pydantic._internal._signature',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_signature.py',
+   'PYMODULE'),
+  ('pydantic._internal._type_refs',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_type_refs.py',
+   'PYMODULE'),
+  ('pydantic._internal._typing_extra',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'PYMODULE'),
+  ('pydantic._internal._utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._validate_call',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'PYMODULE'),
+  ('pydantic._internal._validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'PYMODULE'),
+  ('pydantic._migration',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\_migration.py',
+   'PYMODULE'),
+  ('pydantic.alias_generators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\alias_generators.py',
+   'PYMODULE'),
+  ('pydantic.aliases',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\aliases.py',
+   'PYMODULE'),
+  ('pydantic.annotated_handlers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'PYMODULE'),
+  ('pydantic.class_validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.color',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\color.py',
+   'PYMODULE'),
+  ('pydantic.config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\config.py',
+   'PYMODULE'),
+  ('pydantic.dataclasses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.datetime_parse',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.decorator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.deprecated',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.class_validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.copy_internals',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.decorator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.json',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.parse',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.tools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'PYMODULE'),
+  ('pydantic.env_settings',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.error_wrappers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\errors.py',
+   'PYMODULE'),
+  ('pydantic.experimental',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\experimental\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.experimental.arguments_schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\experimental\\arguments_schema.py',
+   'PYMODULE'),
+  ('pydantic.experimental.missing_sentinel',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\experimental\\missing_sentinel.py',
+   'PYMODULE'),
+  ('pydantic.experimental.pipeline',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\experimental\\pipeline.py',
+   'PYMODULE'),
+  ('pydantic.fields',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\fields.py',
+   'PYMODULE'),
+  ('pydantic.functional_serializers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\functional_serializers.py',
+   'PYMODULE'),
+  ('pydantic.functional_validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\functional_validators.py',
+   'PYMODULE'),
+  ('pydantic.generics',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\generics.py',
+   'PYMODULE'),
+  ('pydantic.json',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\json.py',
+   'PYMODULE'),
+  ('pydantic.json_schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\json_schema.py',
+   'PYMODULE'),
+  ('pydantic.main',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\main.py',
+   'PYMODULE'),
+  ('pydantic.mypy',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\mypy.py',
+   'PYMODULE'),
+  ('pydantic.networks',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\networks.py',
+   'PYMODULE'),
+  ('pydantic.parse',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\parse.py',
+   'PYMODULE'),
+  ('pydantic.plugin',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.plugin._loader',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'PYMODULE'),
+  ('pydantic.plugin._schema_validator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'PYMODULE'),
+  ('pydantic.root_model',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\root_model.py',
+   'PYMODULE'),
+  ('pydantic.schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\schema.py',
+   'PYMODULE'),
+  ('pydantic.tools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\tools.py',
+   'PYMODULE'),
+  ('pydantic.type_adapter',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\type_adapter.py',
+   'PYMODULE'),
+  ('pydantic.types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\types.py',
+   'PYMODULE'),
+  ('pydantic.typing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\typing.py',
+   'PYMODULE'),
+  ('pydantic.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\utils.py',
+   'PYMODULE'),
+  ('pydantic.v1',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.v1._hypothesis_plugin',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\_hypothesis_plugin.py',
+   'PYMODULE'),
+  ('pydantic.v1.annotated_types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\annotated_types.py',
+   'PYMODULE'),
+  ('pydantic.v1.class_validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.color',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\color.py',
+   'PYMODULE'),
+  ('pydantic.v1.config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\config.py',
+   'PYMODULE'),
+  ('pydantic.v1.dataclasses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.v1.datetime_parse',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.decorator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.v1.env_settings',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.v1.error_wrappers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.v1.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\errors.py',
+   'PYMODULE'),
+  ('pydantic.v1.fields',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\fields.py',
+   'PYMODULE'),
+  ('pydantic.v1.generics',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\generics.py',
+   'PYMODULE'),
+  ('pydantic.v1.json',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\json.py',
+   'PYMODULE'),
+  ('pydantic.v1.main',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\main.py',
+   'PYMODULE'),
+  ('pydantic.v1.mypy',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\mypy.py',
+   'PYMODULE'),
+  ('pydantic.v1.networks',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\networks.py',
+   'PYMODULE'),
+  ('pydantic.v1.parse',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\schema.py',
+   'PYMODULE'),
+  ('pydantic.v1.tools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\tools.py',
+   'PYMODULE'),
+  ('pydantic.v1.types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\types.py',
+   'PYMODULE'),
+  ('pydantic.v1.typing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\typing.py',
+   'PYMODULE'),
+  ('pydantic.v1.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\utils.py',
+   'PYMODULE'),
+  ('pydantic.v1.validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\v1\\version.py',
+   'PYMODULE'),
+  ('pydantic.validate_call_decorator',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'PYMODULE'),
+  ('pydantic.validators',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\validators.py',
+   'PYMODULE'),
+  ('pydantic.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\version.py',
+   'PYMODULE'),
+  ('pydantic.warnings',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic\\warnings.py',
+   'PYMODULE'),
+  ('pydantic_core',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic_core\\__init__.py',
+   'PYMODULE'),
+  ('pydantic_core.core_schema',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pydantic_core\\core_schema.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('python_multipart',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\python_multipart\\__init__.py',
+   'PYMODULE'),
+  ('python_multipart.decoders',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\python_multipart\\decoders.py',
+   'PYMODULE'),
+  ('python_multipart.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\python_multipart\\exceptions.py',
+   'PYMODULE'),
+  ('python_multipart.multipart',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\python_multipart\\multipart.py',
+   'PYMODULE'),
+  ('pythonnet',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\pythonnet\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('services', '-', 'PYMODULE'),
+  ('services.ffmpeg_service',
+   'E:\\Saas Apps\\VideoExtractor\\backend\\services\\ffmpeg_service.py',
+   'PYMODULE'),
+  ('setuptools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._ranges',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.ranges',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('starlette',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\__init__.py',
+   'PYMODULE'),
+  ('starlette._exception_handler',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\_exception_handler.py',
+   'PYMODULE'),
+  ('starlette._utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\_utils.py',
+   'PYMODULE'),
+  ('starlette.applications',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\applications.py',
+   'PYMODULE'),
+  ('starlette.background',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\background.py',
+   'PYMODULE'),
+  ('starlette.concurrency',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\concurrency.py',
+   'PYMODULE'),
+  ('starlette.convertors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\convertors.py',
+   'PYMODULE'),
+  ('starlette.datastructures',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\datastructures.py',
+   'PYMODULE'),
+  ('starlette.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\exceptions.py',
+   'PYMODULE'),
+  ('starlette.formparsers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\formparsers.py',
+   'PYMODULE'),
+  ('starlette.middleware',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('starlette.middleware.base',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\base.py',
+   'PYMODULE'),
+  ('starlette.middleware.body_limit',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\body_limit.py',
+   'PYMODULE'),
+  ('starlette.middleware.cors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\cors.py',
+   'PYMODULE'),
+  ('starlette.middleware.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\errors.py',
+   'PYMODULE'),
+  ('starlette.middleware.exceptions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\exceptions.py',
+   'PYMODULE'),
+  ('starlette.middleware.sessions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\middleware\\sessions.py',
+   'PYMODULE'),
+  ('starlette.requests',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\requests.py',
+   'PYMODULE'),
+  ('starlette.responses',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\responses.py',
+   'PYMODULE'),
+  ('starlette.routing',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\routing.py',
+   'PYMODULE'),
+  ('starlette.staticfiles',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\staticfiles.py',
+   'PYMODULE'),
+  ('starlette.status',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\status.py',
+   'PYMODULE'),
+  ('starlette.types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\types.py',
+   'PYMODULE'),
+  ('starlette.websockets',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\starlette\\websockets.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('typing_inspection',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\typing_inspection\\__init__.py',
+   'PYMODULE'),
+  ('typing_inspection.introspection',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\typing_inspection\\introspection.py',
+   'PYMODULE'),
+  ('typing_inspection.typing_objects',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\typing_inspection\\typing_objects.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('uvicorn',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.__main__',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\__main__.py',
+   'PYMODULE'),
+  ('uvicorn._ansi',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\_ansi.py',
+   'PYMODULE'),
+  ('uvicorn._compat',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\_compat.py',
+   'PYMODULE'),
+  ('uvicorn._subprocess',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\_subprocess.py',
+   'PYMODULE'),
+  ('uvicorn._types',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\_types.py',
+   'PYMODULE'),
+  ('uvicorn.config',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\config.py',
+   'PYMODULE'),
+  ('uvicorn.importer',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\importer.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\lifespan\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan.off',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\lifespan\\off.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan.on',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\lifespan\\on.py',
+   'PYMODULE'),
+  ('uvicorn.logging',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\logging.py',
+   'PYMODULE'),
+  ('uvicorn.loops',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\loops\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.loops.asyncio',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\loops\\asyncio.py',
+   'PYMODULE'),
+  ('uvicorn.loops.auto',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\loops\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.loops.uvloop',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\loops\\uvloop.py',
+   'PYMODULE'),
+  ('uvicorn.loops.zuvloop',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\loops\\zuvloop.py',
+   'PYMODULE'),
+  ('uvicorn.main',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\main.py',
+   'PYMODULE'),
+  ('uvicorn.middleware',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.asgi2',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\middleware\\asgi2.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.message_logger',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\middleware\\message_logger.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.proxy_headers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\middleware\\proxy_headers.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.wsgi',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\middleware\\wsgi.py',
+   'PYMODULE'),
+  ('uvicorn.protocols',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.auto',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.auto_zttp_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto_zttp_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.flow_control',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\flow_control.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.h11_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\h11_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.httptools_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\httptools_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.zttp_h2_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\zttp_h2_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.zttp_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\zttp_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.utils',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\utils.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.auto',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.websockets_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.websockets_sansio_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_sansio_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.wsproto_impl',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\wsproto_impl.py',
+   'PYMODULE'),
+  ('uvicorn.server',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\server.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\supervisors\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.basereload',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\supervisors\\basereload.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.multiprocess',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\supervisors\\multiprocess.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.statreload',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\supervisors\\statreload.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.watchfilesreload',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\supervisors\\watchfilesreload.py',
+   'PYMODULE'),
+  ('uvicorn.workers',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\uvicorn\\workers.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('webview',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\__init__.py',
+   'PYMODULE'),
+  ('webview.dom',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\__init__.py',
+   'PYMODULE'),
+  ('webview.dom.classlist',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\classlist.py',
+   'PYMODULE'),
+  ('webview.dom.dom',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\dom.py',
+   'PYMODULE'),
+  ('webview.dom.element',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\element.py',
+   'PYMODULE'),
+  ('webview.dom.event',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\event.py',
+   'PYMODULE'),
+  ('webview.dom.propsdict',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\dom\\propsdict.py',
+   'PYMODULE'),
+  ('webview.errors',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\errors.py',
+   'PYMODULE'),
+  ('webview.event',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\event.py',
+   'PYMODULE'),
+  ('webview.guilib',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\guilib.py',
+   'PYMODULE'),
+  ('webview.http',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\http.py',
+   'PYMODULE'),
+  ('webview.localization',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\localization.py',
+   'PYMODULE'),
+  ('webview.menu',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\menu.py',
+   'PYMODULE'),
+  ('webview.models',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\models.py',
+   'PYMODULE'),
+  ('webview.platforms',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.app',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.base',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\base.py',
+   'PYMODULE'),
+  ('webview.platforms.android.event',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\event.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.app',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.content',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\content.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.net',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\net.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.os',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\os.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.view',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.webkit',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.pywebview',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\pywebview.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.view',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.webkit',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.cef',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\cef.py',
+   'PYMODULE'),
+  ('webview.platforms.cocoa',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\cocoa.py',
+   'PYMODULE'),
+  ('webview.platforms.edgechromium',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\edgechromium.py',
+   'PYMODULE'),
+  ('webview.platforms.gtk',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\gtk.py',
+   'PYMODULE'),
+  ('webview.platforms.mshtml',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\mshtml.py',
+   'PYMODULE'),
+  ('webview.platforms.qt',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\qt.py',
+   'PYMODULE'),
+  ('webview.platforms.win32',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\win32.py',
+   'PYMODULE'),
+  ('webview.platforms.winforms',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\platforms\\winforms.py',
+   'PYMODULE'),
+  ('webview.screen',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\screen.py',
+   'PYMODULE'),
+  ('webview.state',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\state.py',
+   'PYMODULE'),
+  ('webview.util',
+   'E:\\Saas Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\util.py',
+   'PYMODULE'),
+  ('webview.window',
+   'E:\\Saas '
+   'Apps\\VideoExtractor\\venv\\Lib\\site-packages\\webview\\window.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\types.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zoneinfo',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('zoneinfo._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_common.py',
+   'PYMODULE'),
+  ('zoneinfo._tzpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_tzpath.py',
+   'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE')])
